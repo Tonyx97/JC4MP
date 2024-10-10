@@ -1,2 +1,6 @@
 .vs
+*.pdb
+*.exe
+
 resources/
+build/
